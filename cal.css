@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color:azure;
+}
+
+#cal{
+    width: 300px;
+    height: auto;
+    border: 1px solid rgb(12, 8, 8);
+    margin-left: 35%;
+    margin-top: 10%;
+    background-color: #062b51;
+    border-radius: 5px;
+}
+input[type="text"]{
+    width: 98.2%;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 5px;
+    text-align: right;
+    
+}
+button{
+    border-radius: 50%;
+    padding: 6px;
+    margin: 6px;
+    width: 20%;
+    height: 50px;
+    background-color: #bdbdbd;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #ddd;
+}
+.cal1{
+    background-color: red;
+}
+.cal1:hover{
+    background-color:brown;
+}
+.cal2{
+    background-color:orange;
+}
+.cal2:hover{
+    background-color: crimson;
+}
